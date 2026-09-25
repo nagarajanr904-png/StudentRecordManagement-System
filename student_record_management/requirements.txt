@@ -1,0 +1,18 @@
+# Student Record Management System - Requirements
+# Python 3.11+ compatible
+
+# GUI Frameworks
+kivy>=2.3.0
+kivymd>=1.2.0
+
+# Database Connector
+mysql-connector-python>=8.3.0
+
+# Environment Management
+python-dotenv>=1.0.1
+
+# PDF Report Generation
+reportlab>=4.1.0
+
+# Image handling support for UI & PDF assets
+pillow>=10.2.0

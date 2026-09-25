@@ -1,0 +1,6 @@
+{
+  "name": "Student Record Management System",
+  "description": "Production-grade native Python & MySQL Student Record Management System with Kivy/KivyMD, responsive layouts, ReportLab PDF reports, and comprehensive administration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
